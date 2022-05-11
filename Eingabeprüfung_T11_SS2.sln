@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eingabeprüfung_T11_SS2", "Eingabeprüfung_T11_SS2.csproj", "{01A0388A-F31D-41CF-A067-68D789DAF9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A0388A-F31D-41CF-A067-68D789DAF9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A0388A-F31D-41CF-A067-68D789DAF9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A0388A-F31D-41CF-A067-68D789DAF9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A0388A-F31D-41CF-A067-68D789DAF9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A287D1-E8C9-425C-9858-D3F824670277}
+	EndGlobalSection
+EndGlobal
